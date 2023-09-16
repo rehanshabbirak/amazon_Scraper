@@ -20,7 +20,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 **Author**
 [rehanshabbirak]
 Email: [rehanshabbir.ak@gmail.com]
-GitHub: github.com/yourusername
+GitHub: github.com/rehanshabbirak
 **Acknowledgments**
 We would like to express our gratitude to the creators of the following libraries and frameworks used in this project:
 
